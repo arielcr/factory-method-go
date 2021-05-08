@@ -1,1 +1,1 @@
-# factory-method-go
+# Factory Method Design Pattern in Go
